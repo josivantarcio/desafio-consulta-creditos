@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://postgres:5432/creditos_db
+    username: credito_user
+    password: credito_pass
+  kafka:
+    bootstrap-servers: kafka:9092
